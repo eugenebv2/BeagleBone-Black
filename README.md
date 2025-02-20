@@ -4,9 +4,7 @@ With Grove Base Cape
 
 <hr>
 
-Install Libmoquitto ( sudo apt-get install libmoquitto* ) Include moquitto service , but not use it.
-
-https://mosquitto.org/api/files/mosquitto-h.html 
+Install Libmoquitto. ( sudo apt-get install libmoquitto* ) Include moquitto service , but not use the service. Refenence Libmoquitto API from https://mosquitto.org/api/files/mosquitto-h.html 
 
 git Clone from <a href="https://github.com/positronic57/MQTT_examples_with_libmosquito" target="_blank"> MQTT_examples_with_libmosquito </a>. And test mqtt_sub example. 
 
