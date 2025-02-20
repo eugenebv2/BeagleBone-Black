@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo "Capture Real-time Video using BeagleBone Black - deeplyembedded.org"
+
+echo "Building the V4L video capture program for resolution of 340x240"
+gcc -O2 -Wall `pkg-config --cflags --libs libv4l2` video_capture.c -o video_capture
+
+echo "Done!"
