@@ -1,0 +1,1 @@
+mosquitto_pub -i mosq_pub1 -t "Test topic" -m "Test message" -h ip_address -p 1883 -d
