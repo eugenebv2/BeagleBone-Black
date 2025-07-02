@@ -1,0 +1,12 @@
+[Match]
+Name=eth0
+Type=ether
+
+[Link]
+RequiredForOnline=yes
+
+[Network]
+#Address=192.168.1.144/24
+#Gateway=192.168.1.1
+DHCP=yes
+
