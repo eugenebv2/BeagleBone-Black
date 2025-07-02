@@ -10,3 +10,4 @@ RequiredForOnline=yes
 #Gateway=192.168.1.1
 DHCP=yes
 
+root@BeagleBone:/etc/systemd/network#
