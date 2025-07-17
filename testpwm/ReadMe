@@ -1,1 +1,9 @@
 Adafruit_BBIO It's not maintained anymore...
+
+# | Pin   | pwm | channel
+# | P9_31 | 0   | a
+# | P9_29 | 0   | b
+# | P9_14 | 1   | a
+# | P9_16 | 1   | b
+# | P8_19 | 2   | a
+# | P8_13 | 2   | b
