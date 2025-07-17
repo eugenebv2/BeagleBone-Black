@@ -1,7 +1,6 @@
 # BeagleBone-Black
 
-   Static hostname: BeagleBone
-   
+   Static hostname: BeagleBone   
          Icon name: computer-embedded         
            Chassis: embedded           
         Machine ID: 454bbe9c893a4e109cb1317d7bde7228        
