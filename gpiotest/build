@@ -1,0 +1,1 @@
+g++ gpio_test.cpp GPIO.cpp -o gpio_test -pthread
