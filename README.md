@@ -2,18 +2,12 @@
 
    Static hostname: BeagleBone
    
-         Icon name: computer-embedded
-         
-           Chassis: embedded
-           
-        Machine ID: 454bbe9c893a4e109cb1317d7bde7228
-        
-           Boot ID: fe954291367040828aac4ce6702a8503
-           
-  Operating System: Debian GNU/Linux 11 (bullseye)
-  
-            Kernel: Linux 5.10.168-ti-r73
-            
+         Icon name: computer-embedded         
+           Chassis: embedded           
+        Machine ID: 454bbe9c893a4e109cb1317d7bde7228        
+           Boot ID: fe954291367040828aac4ce6702a8503           
+  Operating System: Debian GNU/Linux 11 (bullseye)  
+            Kernel: Linux 5.10.168-ti-r73            
       Architecture: arm
       
 With Grove Base Cape
