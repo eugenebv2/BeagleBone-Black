@@ -1,8 +1,10 @@
-TARGET = i2ctest05
+
+#TARGET = i2ctest05
+TARGET = mqtttest01
 
 CC = gcc
 
-LIBS = -li2c -lmosquitto -lm
+LIBS = -li2c -lmosquitto -lm -lgpiod
 CFLAGS := -g 
 
 default: $(TARGET)
@@ -19,4 +21,4 @@ $(TARGET): $(OBJECTS)
 	$(CC) $(OBJECTS) -Wall $(LIBS) -o $@
 
 clean:
-	rm -rf i2ctest05 $(OBJS)
+	rm -rf $(TARGET) $(OBJS)
